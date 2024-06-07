@@ -5,7 +5,7 @@ oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT;
 let config = {
   user: 'DBAMV',
   password: 'root',
-  connectString: 'localhost:1521/XEPDB1'
+  connectString: 'rhphost.ddns.net:1521/XEPDB1'
   
 };
 
